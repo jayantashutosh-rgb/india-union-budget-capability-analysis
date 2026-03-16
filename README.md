@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the Union Budget of India using the **Capability Approach**, a framework in welfare economics associated with economist Amartya Sen.
+This project analyzes the Union Budget of India using the **Capability Approach**
 
 The objective is to examine how public expenditure contributes to the expansion of human capabilities — the real freedoms people have to live healthy, educated, and economically secure lives.
 
